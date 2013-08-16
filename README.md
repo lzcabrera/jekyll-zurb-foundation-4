@@ -35,5 +35,5 @@ create a `config.rb` to setup compass
 
 ## More info
 
-*[jekyll.rb](http://jekyllrb.com/)
-*[zurb foundation 4](http://foundation.zurb.com/)
+* [jekyll.rb](http://jekyllrb.com/)
+* [zurb foundation 4](http://foundation.zurb.com/)
