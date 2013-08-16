@@ -11,14 +11,18 @@
 ### Setup compass
 create a `config.rb` to setup compass
 
+<pre>
+  <code>
     require 'zurb-foundation'
-....http_path = "/"
+    http_path = "/"
     css_dir = "stylesheets"
     sass_dir = "sass"
     images_dir = "images"
     javascripts_dir = "javascripts"
     sass_options = {:debug_info => true}
     output_style = :compact
+  </code>
+</pre>
 
 
 ### Install zurb Foundation 
@@ -27,7 +31,7 @@ create a `config.rb` to setup compass
 ### Once setup run the following commands to watch for updates
 `jekyll serve --watch`
 
-compass --watch
+`compass --watch`
 
 ## More info
 [jekyll.rb](http://jekyllrb.com/)
